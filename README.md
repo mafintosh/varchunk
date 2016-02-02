@@ -6,6 +6,8 @@ On-disk variable sized chunk store
 npm install varchunk
 ```
 
+[![build status](http://img.shields.io/travis/mafintosh/varchunk.svg?style=flat)](http://travis-ci.org/mafintosh/varchunk)
+
 ## Usage
 
 ``` js
