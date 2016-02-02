@@ -1,0 +1,26 @@
+{
+  "name": "varchunk",
+  "version": "0.0.0",
+  "description": "On-disk variable sized chunk store",
+  "main": "index.js",
+  "dependencies": {
+    "random-access-open": "^1.1.0",
+    "uint48be": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^5.4.1"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/varchunk.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/varchunk/issues"
+  },
+  "homepage": "https://github.com/mafintosh/varchunk"
+}
